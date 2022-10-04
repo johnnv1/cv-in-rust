@@ -11,3 +11,7 @@ image = "0.24.4"
 [[bin]]
 name = "read_image"
 path = "src/basic/01_read_image.rs"
+
+[[bin]]
+name = "edge_detection"
+path = "src/basic/02_edge_detection.rs"
